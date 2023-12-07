@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/my.png"
   bio              : "사회사업가의 길을 간다."
   location         : "Seoul, South Korea"
-  email            :
+  email            : "comma@kyune.net"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
