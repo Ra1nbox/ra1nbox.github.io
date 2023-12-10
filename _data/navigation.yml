@@ -7,7 +7,7 @@ main:
     url: /about/
 
   - title: "Category"
-    url: /category
+    url: /categories
 
   # - title: "Projects"
   #   url: /projects/
