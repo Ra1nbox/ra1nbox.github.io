@@ -1,10 +1,9 @@
 ---
-title: "jekyll"
-layout: archive
-permalink: categories/jekyll
+title: "Jekyll"
+layout: category
+permalink: /categories/jekyll/
 author_profile: true
-sidebar_main: true
+taxonomy: jekyll
+sidebar:
+  nav: "categories"
 ---
-***
-{% assign posts = site.categories.jekyll %}
-{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

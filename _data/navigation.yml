@@ -1,12 +1,28 @@
 # main links
 main:
   - title: "Home"
-    url: /index.html
-  #- title: "About"
-    #url: /about/
+    url: https://kyune.net
+
+  - title: "About"
+    url: /about/
+
   - title: "Category"
-    url: /categories/
-  #- title: "Tag"
-    #url: /tags/
-  #- title: "Post by Year"
-    #url: /year-archive/
+    url: /category
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "Write"
+    url: /categories/write/
+  - title: "Read"
+    url: /categories/read/
+  - title: "Photo"
+    url: /categories/photo/
+  - title: "Jekyll"
+    url: /categories/jekyll/

@@ -1,11 +1,9 @@
 ---
-title: "순간의 기록"
-layout: archive
-permalink: categories/photo
+title: "순간 기록"
+layout: category
+permalink: /categories/photo/
 author_profile: true
-sidebar_main: true
+taxonomy: photo
+sidebar:
+  nav: "categories"
 ---
-***
-
-{% assign posts = site.categories['photo'] %}
-{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

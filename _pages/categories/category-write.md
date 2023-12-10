@@ -1,14 +1,9 @@
 ---
-title: "하루 하루 쓰다"
-layout: archive
-permalink: categories/write
+title: "하루 하루 읽다"
+layout: category
+permalink: /categories/write/
 author_profile: true
-sidebar_main: true
+taxonomy: write
+sidebar:
+  nav: "categories"
 ---
-
-<!-- 공백이 포함되어 있는 카테고리 이름의 경우 site.categories['a b c'] 이런식으로! -->
-
-***
-
-{% assign posts = site.categories.write %}
-{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
