@@ -1,6 +1,6 @@
 ---
 title: "Hi all! I'm KyunE👋🏻"
-permalink: /about/
+permalink: /about
 layout: single
 comments: false
 ---
