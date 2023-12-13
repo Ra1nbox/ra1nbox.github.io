@@ -1,5 +1,5 @@
 ---
-title: "하루 하루 읽다"
+title: "Read every day"
 layout: category
 permalink: /categories/read/
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-title: "순간 기록"
+title: "Record of the moment"
 layout: category
 permalink: /categories/photo/
 author_profile: true
