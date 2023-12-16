@@ -1,7 +1,7 @@
 ---
 title:  "여론조사 전화 수신거부" 
 categories:
-  - info
+  - etc
 toc: true
 toc_sticky: true
 date: 2023-12-14

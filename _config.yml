@@ -2,7 +2,7 @@ minimal_mistakes_skin: "plum"
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "KyunE' Daily" # 상단 헤더에 보이는 블로그 명
+title: "📂 KyunE' Daily" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "KyunE" # 블로그 닉네임 설정

@@ -1,9 +1,9 @@
 ---
 title: "Information"
 layout: category
-permalink: /categories/info/
+permalink: /categories/etc/
 author_profile: true
-taxonomy: info
+taxonomy: etc
 sidebar:
   nav: "categories"
 ---

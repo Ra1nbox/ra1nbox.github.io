@@ -8,4 +8,5 @@ comments: false
 <br><br><br><br><br><br><br><br><br><br><br>
 
 🏕️ Seoul, Korea<br>
-📫 comma@kyune.net
+📫 comma@kyune.net<br>
+📚 Social worker
