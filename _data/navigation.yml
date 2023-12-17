@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://kyune.net
+    url: /
   - title: "About"
     url: /about/
   - title: "Category"
@@ -14,7 +14,7 @@ main:
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
 categories:
-  - title: "Deaily"
+  - title: "Daily"
     children:
       - title: "write"
         url: /categories/write/
