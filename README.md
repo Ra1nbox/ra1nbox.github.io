@@ -1,1 +1,1 @@
-## 🦥 KyunE's Daily
+👋 Hi, I’m KyunE<br>👀 I’m interested in social work<br>🌱 I’m currently learning social welfare<br>📫 How to reach me, comma@kyune.net
