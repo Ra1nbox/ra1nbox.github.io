@@ -6,8 +6,6 @@ main:
     url: /about/
   - title: "Category"
     url: /categories
-  - title: "Tags"
-    url: /tags/
   - title: "Search"
     url: "/search/"
 
