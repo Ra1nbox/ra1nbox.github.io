@@ -1,9 +1,9 @@
 ---
-title:  "2023년을" 
+title:  "2023년을 보내며" 
 categories:
   - write
 tags:
-  -  [승진]
+  - 2023
 date: 2023-12-06
 last_modified_at: 2023-12-06
 ---
